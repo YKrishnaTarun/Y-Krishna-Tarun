@@ -13,7 +13,7 @@
 - **Web:** HTML5, CSS3, Bootstrap, MySQL
 - **Security:** Snort IDS, ELK Stack
 - **IoT:** Arduino
-- **Others:** Ubuntu, Git, GitHub
+- **Others:** Ubuntu, VS Code, MS Word, MS Power Point, Overleaf (LaTeX).
 
 
 ## 📫 Let's Connect
